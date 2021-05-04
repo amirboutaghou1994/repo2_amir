@@ -1,7 +1,7 @@
 print("hello world")
 sis
-print("angela")
+print("a")
 a = 4
 
 print("angela and love")
-a = 90
+a = 56
